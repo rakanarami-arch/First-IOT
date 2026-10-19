@@ -32,4 +32,4 @@ Proyek *End-to-End* Internet of Things (IoT) untuk memantau suhu dan kelembaban 
 ## 📸 Dokumentasi Visual
 
 **Perangkat Keras NodeMCU & DHT11**
-![Foto Alat IoT](assets/Foto Barang.jpeg)
+![Foto Alat IoT](assets/Foto_Barang.jpeg)
